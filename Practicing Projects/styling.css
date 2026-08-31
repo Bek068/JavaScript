@@ -1,0 +1,46 @@
+html{
+    margin: 0;
+    padding: 0;
+
+}
+.button{
+    width: 100px;
+    height: 50px;
+    display: inline-block;
+    margin-top: 40px;
+    margin-right: 20px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.instructions{
+    font-size: 16px;
+    text-align: center;
+    margin: 20px 0;
+}
+
+#yellow{
+    background-Color: yellow;
+}
+#grey{
+    background-Color: grey;
+}
+#aqua{
+    background-Color: aqua;
+}
+#blue{
+    background-Color: blue;
+}
+#pink{
+    background-Color: pink;
+}
+#magenta{
+    background-Color: magenta;
+}
+#white{
+    background-Color: white;
+}
+.notes{
+    margin-top: 80px;
+    margin-bottom: 80px;
+    padding-bottom:20px;
+}
